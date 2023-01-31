@@ -1,0 +1,17 @@
+.App {
+  text-align: left;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 1em;
+  border: .5px solid black;
+}
+    
+.ForYou {
+  display: grid;
+  grid-template-columns: auto auto;
+} 
+      
+.IfYouMissed {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}     
