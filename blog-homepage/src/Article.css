@@ -1,0 +1,11 @@
+.article{
+  text-align: left;
+  width: 90%;
+  height: 90%;
+  padding: 1em;
+  border: .5px solid black;
+  } 
+    
+  .article{
+   margin: 0.5em 0;
+  } 
